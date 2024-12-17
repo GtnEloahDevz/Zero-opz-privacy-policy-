@@ -1,0 +1,51 @@
+Privacy Policy for Zero Opz
+Last Updated: December 17, 2024
+
+1. Introduction
+Welcome to Zero Opz (“we,” “our,” or “us”). Your privacy is important to us, and we are committed to ensuring a safe experience. This Privacy Policy explains that Zero Opz does not collect, store, or share any personal data.
+
+By using Zero Opz, you agree to this Privacy Policy.
+
+---
+
+2. Information We Do Not Collect
+Zero Opz does not:
+
+Collect or process personal data such as names, email addresses, or contact information.
+
+Track your location.
+
+Access or store device-specific data.
+
+Use cookies or similar tracking technologies.
+
+---
+
+3. Third-Party Services
+Zero Opz may use third-party tools or libraries, such as Google Play Services, to ensure the app functions properly. These third-party services may collect anonymous usage data, such as crash reports or app performance metrics. We do not control or store this data.
+
+For further details on third-party data handling, refer to their respective privacy policies:
+
+Google Play Services Privacy Policy
+
+---
+
+4. Data Security
+Even though we do not collect personal data, we ensure that Zero Opz is designed with industry-standard security measures to protect against unauthorized access or vulnerabilities.
+
+---
+
+5. Children’s Privacy
+Zero Opz does not knowingly target users under 13 years of age. Since no personal data is collected, it complies with the requirements of child privacy regulations, such as COPPA and GDPR.
+
+---
+
+6. Changes to This Privacy Policy
+We may update this Privacy Policy to reflect changes in the app or legal requirements. Any changes will be posted on this page with an updated date.
+
+---
+
+7. Contact Us
+If you have any questions about this Privacy Policy or the app’s practices, please contact us:
+Email: gtneloahdevz@gmail.com
+Developer: Zero Opz Team
